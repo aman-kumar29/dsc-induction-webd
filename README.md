@@ -11,7 +11,7 @@ c.After clicking on Login With Mobile signin.html link opens asking for email/m 
  
 
 Create-Account—createaccount.html file opens asking for various inputs
-![Test Image 4](Screenshot (440).png)
+![Test Image 4](/Screenshot (440).png)
  
 d.signin.html
 e.createaccount.html
